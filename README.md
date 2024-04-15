@@ -15,3 +15,7 @@ Lastly, we removed duplicate and Null values from our dataset where we could.
 The file used to clean and prepare the data is called "Seattle_NYC_Weather.ipynb".
 
 The clean dataset that's ready for analysis is called "clean_seattle_nyc_weather.csv".
+
+# Data Analysis
+First, I posed some questions that I thought would be important to understanding in which city it rains "more". I thought of average rainfall in each city, the standard deviation of values for precipitation measures, the frequency of rainfall greater than 0.25 inches, and in which months the average rainfall is less than 0.1 inches.
+Next, I utilized plots and visualizations to give context to the mean and standard deviation values I found. It became clear that both frequency and magnitude of rain were the most important aspects to consider when thinking about where it rains "most".
